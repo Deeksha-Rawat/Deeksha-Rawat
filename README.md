@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Deeksha.</h1>
 <h3 align="center">A self taught frontend developer from India</h3>
 
